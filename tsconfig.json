@@ -1,0 +1,36 @@
+{
+    "compilerOptions": {
+        "allowJs": true,
+        "checkJs": false,
+        "declaration": false,
+        "experimentalDecorators": true,
+        "jsx": "react",
+        "lib": [
+            "es5",
+            "dom",
+            "es2015.core",
+            "es2015.promise",
+            "es2015.iterable",
+            "es2015.collection"
+        ],
+        "module": "commonjs",
+        "noEmitHelpers": true,
+        "preserveConstEnums": false,
+        "reactNamespace": "b",
+        "removeComments": false,
+        "skipLibCheck": true,
+        "skipDefaultLibCheck": true,
+        "sourceMap": true,
+        "target": "es5",
+        "types": [],
+        "moduleResolution": "node",
+        "noLib": false
+    },
+    "files": [
+        "node_modules/bobril/jsx.d.ts"
+    ],
+    "include": [
+        "**/*"
+    ],
+    "compileOnSave": false
+}

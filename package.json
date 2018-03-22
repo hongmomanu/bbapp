@@ -1,0 +1,16 @@
+{
+  "name": "bbapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/animejs": "^2.0.0",
+    "animejs": "^2.2.0",
+    "bobril": "^8.4.1"
+  }
+}
